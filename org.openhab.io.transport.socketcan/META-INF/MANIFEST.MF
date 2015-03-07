@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: openHAB SocketCAN Transport Bundle
+Bundle-SymbolicName: org.openhab.io.transport.socketcan
+Bundle-Version: 1.7.0.qualifier
+Bundle-Vendor: openHAB.org
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-ClassPath: lib/libsocket-can-java.jar
+Export-Package: de.entropia.can
+Import-Package: de.entropia.can
